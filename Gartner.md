@@ -1,0 +1,1 @@
+Das Beratungsunternehmen Gartner, das für seine Analysen und Prognosen im Bereich der Informationstechnologie (IT) bekannt ist. Gartner veröffentlicht regelmäßig Berichte, in denen Trends und Entwicklungen auf dem IT-Markt untersucht werden, einschließlich Sicherheitsrisiken wie Angriffsvektoren über APIs (Application Programming Interfaces).
