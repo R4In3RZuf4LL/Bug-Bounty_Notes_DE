@@ -5,4 +5,4 @@
 Be Scientist not Criminal***
 
 ### Description
-> Meine Notes die ich im Laufe der Zeit so gemacht habe, mit Schwerpunkt Cyber-Security und Bug-Bounty
+> Meine Obsidian Notes die ich im Laufe der Zeit so gemacht habe, mit Schwerpunkt Cyber-Security und Bug-Bounty. Ich hoffe sie helfen jemandem.
