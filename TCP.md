@@ -1,0 +1,2 @@
+
+Das **Transmission Control Protocol** (TCP) ist ein Standard, der definiert, wie eine Netzwerkkonversation aufgebaut und aufrechterhalten wird, über die Anwendungen Daten austauschen können. TCP arbeitet mit dem Internet-Protokoll (IP) zusammen, das festlegt, wie Computer Datenpakete aneinander senden.

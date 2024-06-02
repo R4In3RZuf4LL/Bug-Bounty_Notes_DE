@@ -1,0 +1,2 @@
+
+URL steht für „**Uniform Resource Locator**“ und zeigt sich als Teil der URI, dem „Uniform Resource Identifier“. Mit der URL wird eine Adresse bezeichnet, die eine Datei auf einem Server angibt. Bekannter sind die sprachgebräuchlichen Begriffe „Internetadresse“ oder „Webadresse“.
